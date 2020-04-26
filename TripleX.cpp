@@ -64,12 +64,3 @@ int main()
     }
     return 0; // exit program
 }
-
-
-
-
-//namespace std
-// scope operator ::
-// cout defined in std namespace
-// << insertion operator 
-// Double quotes are for strings
